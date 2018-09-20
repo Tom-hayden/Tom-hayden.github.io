@@ -1,5 +1,37 @@
+
+.container {
+    max-width: 800px;
+}
+
+nav {
+    margin: 19px 0 0 0;
+    padding: 0px;
+}
+
 nav ul li {
     display: inline;
-    margin: 0 20px;
+    margin: 40px 20px;
     font-size: 2.7rem;
+}
+
+.header hr {
+    margin-top: 0rem;
+}
+
+.myname {
+    font-weight: 500;
+    font-size: 3.4rem;
+}
+
+.navtitles {
+    font-weight: 300;
+    font-size: 2.3rem;
+}
+
+.selectedpage {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
 }
