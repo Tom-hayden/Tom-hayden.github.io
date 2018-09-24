@@ -48,3 +48,13 @@ nav a:hover {
 body {
     font-family: 'Helvetica', 'Arial', sans-serif;
 }
+
+.footer {
+    margin: auto;
+    text-align: center;
+}
+
+.footer ul li {
+    list-style: none;
+    display: inline-block;
+}
